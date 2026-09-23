@@ -45,6 +45,10 @@ He trabajado y me siento cómodo con las siguientes tecnologías:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Arsys-005B94?style=for-the-badge&logo=server&logoColor=white" alt="Arsys" />
+  <img src="https://img.shields.io/badge/SonarCloud-F3705A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
 </p>
 
 **🤖 Automatización & CMS**
